@@ -23,6 +23,8 @@ As an analyst at Mysellar, a multinational retail corporation that operates a ch
 ## Data Source
 
 ## Data Model
+The data was transformed from excel into Tableau
+![Data Model](https://public.tableau.com/views/MysellarLan/MysellarGlobalStores?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Dashboard Insights 
 ### Overview
